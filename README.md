@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/theatharvagai/leetcode/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/theatharvagai/leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/theatharvagai/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
