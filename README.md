@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/theatharvagai/leetcode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
+| [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/theatharvagai/leetcode/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
 <!---LeetCode Topics End-->
