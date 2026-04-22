@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/theatharvagai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/theatharvagai/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/theatharvagai/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/theatharvagai/leetcode/tree/master/0031-next-permutation) |
@@ -123,8 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/theatharvagai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/theatharvagai/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/theatharvagai/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/theatharvagai/leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theatharvagai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/theatharvagai/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
