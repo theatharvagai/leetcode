@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theatharvagai/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/theatharvagai/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/theatharvagai/leetcode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
 | [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theatharvagai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/theatharvagai/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/theatharvagai/leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/theatharvagai/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theatharvagai/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/theatharvagai/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/theatharvagai/leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
