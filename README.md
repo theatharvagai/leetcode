@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/theatharvagai/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/theatharvagai/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/theatharvagai/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/theatharvagai/leetcode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
 | [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
 ## Dynamic Programming
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/theatharvagai/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/theatharvagai/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/theatharvagai/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/theatharvagai/leetcode/tree/master/0067-add-binary) |
 | [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
 ## Binary Search
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/theatharvagai/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/theatharvagai/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/theatharvagai/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/theatharvagai/leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
