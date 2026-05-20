@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/theatharvagai/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/theatharvagai/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/theatharvagai/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/theatharvagai/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
 | [3677-count-binary-palindromic-numbers](https://github.com/theatharvagai/leetcode/tree/master/3677-count-binary-palindromic-numbers) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/theatharvagai/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/theatharvagai/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/theatharvagai/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/theatharvagai/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/theatharvagai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theatharvagai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/theatharvagai/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/theatharvagai/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/theatharvagai/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
